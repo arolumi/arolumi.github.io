@@ -1,0 +1,13 @@
+title: 我的写作手记
+description: 记录一些想法与文章草稿
+author: 你的名字
+theme: minima
+
+# 可选：自动深浅色
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: https://github.com/你的用户名 }
+
+plugins:
+  - jekyll-feed
